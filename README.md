@@ -1,5 +1,5 @@
 # Code Generator
----
+
 This repository contains the project done as a part of CS626: Speech and Natural Language Processing and the Web at IIT Bombay in Autumn 2022.
 
 ## Problem Statement
